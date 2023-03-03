@@ -1,0 +1,19 @@
+.seperation {
+
+
+    justify-content: space-between;
+
+    font-size: 24px;
+}
+
+.div1 {
+
+    justify-content: space-evenly;
+    flex: 4;
+}
+
+.div2 {
+
+    justify-content: space-evenly;
+    flex: 5;
+}

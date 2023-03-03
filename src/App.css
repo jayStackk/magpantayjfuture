@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,47 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+html {
+  width: 100%;
+  height: 100%;
+  background-color: pink;
 }
+
+
+
+
+/* .fullWidth {
+
+  padding-right:0;
+  padding-left:0;
+  margin-right:auto;
+  margin-left:auto;
+  
+} */
+
+/* .newColor {
+
+  background-color: aqua;
+  padding-right: 15px;
+  column-width:0cap;
+} */
+
+/* .newColor2 {
+
+  background-color: blueviolet;
+} */
+
+
+/* .resizeMe {
+
+
+padding-top: 10px;
+} */
+
+/* body { 
+
+
+  background-color: black;
+} */
